@@ -35,11 +35,5 @@ namespace API.Controllers
 
             return Ok(product);
         }
-
-        // [HttpGet("{id}")]
-        // public string GetProduct(int id)
-        // {
-        //     return "single product";
-        // }
     }
 }
