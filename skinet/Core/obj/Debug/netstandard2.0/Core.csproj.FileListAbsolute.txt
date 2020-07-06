@@ -1,0 +1,9 @@
+/Users/benjamin/Documents/demo/skinet/Core/bin/Debug/netstandard2.0/Core.deps.json
+/Users/benjamin/Documents/demo/skinet/Core/bin/Debug/netstandard2.0/Core.dll
+/Users/benjamin/Documents/demo/skinet/Core/bin/Debug/netstandard2.0/Core.pdb
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.dll
+/Users/benjamin/Documents/demo/skinet/Core/obj/Debug/netstandard2.0/Core.pdb
